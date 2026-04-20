@@ -25,15 +25,15 @@ A biblioteca rotina_doe.py foi desenvolvida com as funções necessárias para r
   Resultados_DoE.xlsx - arquivo em excel contendo os dados das listas acima
 
   ==========================================================================================================================================================================
-  - replicas: rotina que identifica os experimentos com as mesmas condições (réplicas)
-  - inputs:
-    A matriz X
-    O vetor y
+- replicas: rotina que identifica os experimentos com as mesmas condições (réplicas)
+- inputs:
+  A matriz X
+  O vetor y
  
-  - outputs:
-    conj_replicas - lista com os conjuntos de réplicas, identificando as condições experimentais das mesmas
-    ind_repli - indice dos conjuntos de réplicas
-    replicas - os resultados obtidos em cada réplica
-    descritivo - as medidas descritivas obtidas para cada conjunto de réplicas
+- outputs:
+  conj_replicas - lista com os conjuntos de réplicas, identificando as condições experimentais das mesmas
+  ind_repli - indice dos conjuntos de réplicas
+  replicas - os resultados obtidos em cada réplica
+  descritivo - as medidas descritivas obtidas para cada conjunto de réplicas
 
     
